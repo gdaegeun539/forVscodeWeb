@@ -137,13 +137,13 @@ void ErrorHandling(char *message){
 }
 
 void CompressSockets(SOCKET hSockArr[], int idx, int total) {
-	for (int i = 0; i < total; i++){
+	for (int i = idx; i < total; i++){
 		hSockArr[i] = hSockArr[i + 1];
 	}
 }
 
 void CompressEvents(SOCKET hEventArr[], int idx, int total) {
-	for (int i = 0; i < total; i++) {
+	for (int i = idx; i < total; i++) {
 		hEventArr[i] = hEventArr[i + 1];
 	}
 }
