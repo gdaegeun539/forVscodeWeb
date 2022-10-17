@@ -1,6 +1,9 @@
+from typing import *
 
 def main():
-    pass
+    match()
+
+def match(origin_str: str, pattern: str, ):
 
 if __name__ == "__main__":
     main()
