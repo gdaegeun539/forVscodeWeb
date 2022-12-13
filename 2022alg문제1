@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T02:37:54.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="eGrhiz8hPPkVO3snkHP4" version="20.4.1" type="github"><diagram id="XaczAFOuLhrG-Vge6AhQ" name="페이지-1">dZHBDoMgDIafhrvCou7s3Lzs5GFnIp2QoDXIotvTTwPOEbekh/brX34ohOXtdDG8l1cUoAmNxETYiVAaHyglS0Ti6UiaJQ40Rgkv2kClXuBh5OlDCRgCoUXUVvUhrLHroLYB48bgGMruqEPXnjewA1XN9Z7elLDS0YymGy9BNXJ1jpOj67R8FfuXDJILHL8QKwjLDaJ1WTvloJflrXtxc+c/3c/FDHT2x8CcbGfPRfBDrHgD</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-13T05:45:31.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="X8_revUQ6ZpSamPGni1G" version="20.6.2" type="github">
+  <diagram id="XaczAFOuLhrG-Vge6AhQ" name="페이지-1">
+    <mxGraphModel dx="613" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x0JmslYwha0AxxrV5XaB-1" value="&lt;font data-font-src=&quot;https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard-dynamic-subset.css&quot;&gt;절차 진입&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=pretendard;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Forioncactus%2Fpretendard%40v1.3.6%2Fdist%2Fweb%2Fstatic%2Fpretendard-dynamic-subset.css;" vertex="1" parent="1">
+          <mxGeometry x="290" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0JmslYwha0AxxrV5XaB-2" value="절차 종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=pretendard;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Forioncactus%2Fpretendard%40v1.3.6%2Fdist%2Fweb%2Fstatic%2Fpretendard-dynamic-subset.css;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1100" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
